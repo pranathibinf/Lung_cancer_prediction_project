@@ -62,6 +62,9 @@ Packages: dplyr, caret, pROC, MASS, ROSE, glmnet
 1. Replace <path_to_dataset> with the actual path to your dataset in the code.
 2. Ensure all required packages are installed and loaded.
 3. Run the script in RStudio.
+
+# Dataset resource
+https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer/code 
    
 # Contact
 Name: Pranathi Limmala
