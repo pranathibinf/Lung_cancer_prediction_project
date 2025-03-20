@@ -12,14 +12,14 @@ LUNG_CANCER: Whether the patient has lung cancer (target variable)
 
 # Methodology
 The project follows these steps:
-Data Loading and Preprocessing
-Data Splitting into Training and Testing sets
-Model Fitting using Logistic Regression
-Model Evaluation
-Feature Selection using Stepwise AIC
-Class Imbalance Handling using ROSE
-Regularization with Lasso
-Cross-Validation
+Data Loading and Preprocessing;
+Data Splitting into Training and Testing sets;
+Model Fitting using Logistic Regression;
+Model Evaluation;
+Feature Selection using Stepwise AIC;
+Class Imbalance Handling using ROSE;
+Regularization with Lasso;
+Cross-Validation;
 
 # Personal Observations and Further Exploration Suggestions for the Lung Cancer Prediction Project:
 ## Data Loading and Preprocessing
@@ -44,12 +44,12 @@ I addressed class imbalance using oversampling. It was crucial to check that the
 I attempted Lasso regularization but encountered warnings, indicating potential data issues. After resolving these, I re-applied regularization to improve model generalization. Additionally, I used 10-fold cross-validation to confirm the model's consistency and robustness.
 
 ## Further Steps one can take with this dataset:
-Alternative Models and Ensemble Methods
-Feature Engineering
-External Validation
-Longitudinal Analysis
-Patient Stratification
-Deep Learning Approaches
+Alternative Models and Ensemble Methods;
+Feature Engineering;
+External Validation;
+Longitudinal Analysis;
+Patient Stratification;
+Deep Learning Approaches;
 Integration with Clinical Decision Systems
 
 This project has been a comprehensive exercise in applying machine learning to a critical healthcare domain. The potential to extend and enhance this work is vast, and it could significantly impact patient outcomes if developed and validated carefully.
